@@ -1,2 +1,2 @@
 # CrosswordTest
- ![Screenshot](Picture.png) 
+ ![Screenshot](Picture.jpg) 
